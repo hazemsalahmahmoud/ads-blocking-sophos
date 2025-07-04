@@ -61,3 +61,13 @@ books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
 stats.wp.com
+pagead2.googlesyndication.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+stats.wp.com
+app.getsentry.com
+an.facebook.com
+analytics.pinterest.com
+appmetrica.yandex.ru
+adfox.yandex.ru
