@@ -71,3 +71,4 @@ an.facebook.com
 analytics.pinterest.com
 appmetrica.yandex.ru
 adfox.yandex.ru
+wps.com
