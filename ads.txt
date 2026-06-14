@@ -1,8 +1,8 @@
-analytics.adjust.com
-applvn.com
-unityads.unity3d.com
-adsmoloco.com
-eventfnt-eu.dsp-api.moloco.com
+!analytics.adjust.com
+!applvn.com
+!unityads.unity3d.com
+!adsmoloco.com
+!eventfnt-eu.dsp-api.moloco.com
 adtago.s3.amazonaws.com
 analytics.s3.amazonaws.com
 advice-ads.s3.amazonaws.com
