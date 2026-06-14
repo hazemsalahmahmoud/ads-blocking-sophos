@@ -1,3 +1,4 @@
+analytics.adjust.com
 applvn.com
 unityads.unity3d.com
 adsmoloco.com
